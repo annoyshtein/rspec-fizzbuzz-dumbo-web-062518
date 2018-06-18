@@ -4,3 +4,4 @@ def fizzbuzz(number)
   if number % 5 == 0
     puts "DIVISIBLE BY 5!"
 end
+
