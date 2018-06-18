@@ -1,5 +1,5 @@
-def fizzbuzz
-  number = gets.chomp
+def fizzbuzz(number)
+  puts "NOW DOING #{number}!"
   if (number % 3 == 0)
     puts "DIVISIBLE BY 3!"
   end
