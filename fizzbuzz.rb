@@ -4,7 +4,7 @@ def fizzbuzz(number)
     puts "Fizz"
   end
   if number % 5 == 0
-    puts "DIVISIBLE BY 5!"
+    puts "Buzz"
   end
 end
 
