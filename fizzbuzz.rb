@@ -1,4 +1,5 @@
 def fizzbuzz(number)
+  number = gets.chomp
   if number % 3 == 0
     puts "DIVISIBLE BY 3!"
   if number % 5 == 0
