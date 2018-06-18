@@ -1,10 +1,10 @@
 def fizzbuzz(number)
   puts "NOW DOING #{number}!"
   if (number % 3 == 0)
-    return "Fizz"
+    puts "Fizz"
   end
   if number % 5 == 0
-    return "Buzz"
+    puts "Buzz"
   end
 end
 
