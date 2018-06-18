@@ -6,7 +6,7 @@ def fizzbuzz(number)
   if number % 5 == 0
     output << "Buzz"
   end
-  puts output
+  return output
 end
 
 fizzbuzz(2)
