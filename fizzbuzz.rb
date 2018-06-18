@@ -4,7 +4,7 @@ def fizzbuzz(number)
     output = "Fizz"
   end
   if number % 5 == 0
-    puts "Buzz"
+    output = "Buzz"
   end
   puts output
 end
