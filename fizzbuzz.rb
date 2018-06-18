@@ -8,8 +8,3 @@ def fizzbuzz(number)
   end
   return output
 end
-
-fizzbuzz(2)
-fizzbuzz(3)
-fizzbuzz(5)
-fizzbuzz(15)
