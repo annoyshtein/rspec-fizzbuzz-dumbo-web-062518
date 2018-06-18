@@ -1,7 +1,7 @@
 def fizzbuzz(number)
   puts "NOW DOING #{number}!"
   if (number % 3 == 0)
-    puts "DIVISIBLE BY 3!"
+    puts "Fizz"
   end
   if number % 5 == 0
     puts "DIVISIBLE BY 5!"
