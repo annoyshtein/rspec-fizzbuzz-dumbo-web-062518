@@ -8,4 +8,4 @@ def fizzbuzz
   end
 end
 
-fizzbuzz
+fizzbuzz(3)
