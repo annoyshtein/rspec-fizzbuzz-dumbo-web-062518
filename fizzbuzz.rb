@@ -1,4 +1,4 @@
-def fizzbuzz(number)
+def fizzbuzz
   number = gets.chomp
   if number % 3 == 0
     puts "DIVISIBLE BY 3!"
@@ -6,3 +6,4 @@ def fizzbuzz(number)
     puts "DIVISIBLE BY 5!"
 end
 
+fizzbuzz
