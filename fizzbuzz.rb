@@ -1,5 +1,6 @@
 def fizzbuzz(number)
   puts "NOW DOING #{number}!"
+  output = ""
   if (number % 3 == 0)
     output << "Fizz"
   end
